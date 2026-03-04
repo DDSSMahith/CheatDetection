@@ -1,0 +1,11 @@
+*.venv
+.venv/
+*venv/
+
+flagged_clips
+flagged_clips/*
+__pycache__
+*.pyc
+
+/data
+/outputs
